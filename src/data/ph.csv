@@ -1,14 +1,14 @@
 code,min_len,max_len,prefixes,english_name,persian_name
 1,10,10,,United States,ایالات متحده
-1,10,10,,Canada,کانادا
-1,10,10,,Jamaica,جامائیکا
-1,10,10,,Dominican Republic,جمهوری دومینیکن
-1,10,10,,Puerto Rico,پورتوریکو
-1,10,10,,Trinidad and Tobago,ترینیداد و توباگو
-1,10,10,,Barbados,باربادوس
-1,10,10,,Bahamas,باهاما
+1,10,10,204;226;236;249;250;263;289;306;343;354;365;367;368;382;403;416;418;428;431;437;438;450;468;474;506;514;519;548;579;581;584;587;604;613;639;647;672;683;705;709;742;753;778;780;782;807;819;825;867;873;879;902;905;942,Canada,کانادا
+1,10,10,876;658,Jamaica,جامائیکا
+1,10,10,809;829;849,Dominican Republic,جمهوری دومینیکن
+1,10,10,787;939,Puerto Rico,پورتوریکو
+1,10,10,868,Trinidad and Tobago,ترینیداد و توباگو
+1,10,10,246,Barbados,باربادوس
+1,10,10,242,Bahamas,باهاما
 7,10,10,9,Russia,روسیه
-7,10,10,9,Kazakhstan,قزاقستان
+7,10,10,7,Kazakhstan,قزاقستان
 20,10,10,1,Egypt,مصر
 27,9,9,6;7;8,South Africa,آفریقای جنوبی
 30,10,10,6,Greece,یونان
@@ -28,7 +28,7 @@ code,min_len,max_len,prefixes,english_name,persian_name
 48,9,9,5;6;7;8,Poland,لهستان
 49,10,11,15;16;17,Germany,آلمان
 51,9,9,9,Peru,پرو
-52,10,10,1;2,Mexico,مکزیک
+52,10,10,,Mexico,مکزیک
 53,8,8,5,Cuba,کوبا
 54,10,10,15;16,Argentina,آرژانتین
 55,11,11,6;7;8;9,Brazil,برزیل
@@ -52,7 +52,7 @@ code,min_len,max_len,prefixes,english_name,persian_name
 93,10,10,7,Afghanistan,افغانستان
 94,9,9,7,Sri Lanka,سریلانکا
 95,9,9,9,Myanmar,میانمار
-98,12,12,9,Iran,ایران
+98,10,10,9,Iran,ایران
 212,9,9,6,Morocco,مراکش
 213,9,9,5;6;7,Algeria,الجزایر
 216,8,8,2;5,Tunisia,تونس
@@ -62,7 +62,7 @@ code,min_len,max_len,prefixes,english_name,persian_name
 222,8,8,2,Mauritania,موریتانی
 223,8,8,6;7,Mali,مالی
 224,9,9,6,Guinea,گینه
-225,8,8,0;4;5;6,Ivory Coast,ساحل عاج
+225,10,10,,Ivory Coast,ساحل عاج
 226,8,8,6;7,Burkina Faso,بورکینافاسو
 227,8,8,8,Niger,نیجر
 228,8,8,9,Togo,توگو
@@ -78,8 +78,8 @@ code,min_len,max_len,prefixes,english_name,persian_name
 238,7,7,9,Cape Verde,کیپ ورد
 239,7,7,9,Sao Tome and Principe,سائوتومه و پرنسیپ
 240,9,9,2;5,Equatorial Guinea,گینه استوایی
-241,7,7,0,Gabon,گابن
-242,9,9,0,Congo,کنگو
+241,7,7,,Gabon,گابن
+242,9,9,,Congo,کنگو
 243,9,9,8;9,Democratic Republic of the Congo,جمهوری دموکراتیک کنگو
 244,9,9,9,Angola,آنگولا
 245,9,9,9,Guinea-Bissau,گینه بیسائو
